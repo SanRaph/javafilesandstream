@@ -1,0 +1,4 @@
+100  Bob      Noyce   3000
+200  Tony     Robins  4000
+300  Sheryle  Sandberg 5000
+400  Sara     Palin    2000
